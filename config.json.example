@@ -1,0 +1,4 @@
+{
+   "host": "http://SERVERIP:22006",
+   "cache-path": "/var/www/cache"
+}
